@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # API Keys
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY") # Replace with your actual API key
 COHERE_API_KEY = "c4mOumKst3aQmG9rIpFFvFrtpCDwnCIt8MrcupdG"  # Replace with your actual Cohere API key
 
 # Initialize API clients
