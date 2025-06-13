@@ -1,5 +1,5 @@
 gunicorn
 Flask==2.3.3
 Flask-CORS==4.0.0
-groq==0.4.1
+groq==0.18.0
 cohere==4.39
