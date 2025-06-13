@@ -1,0 +1,74 @@
+[
+    {
+        "text": "Hello there! Welcome to this Hindi language class for beginners. Today, we'll continue with our focus on travel-related topics in Hindi. Let's simulate a dialogic classroom to reinforce your understanding of the basics.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "To begin, let's review some essential travel-related phrases. Suppose you are at an airport and want to inquire about the arrival or departure of a flight. How would you ask this in Hindi?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Exactly! Great recall. \"Flight ____ ka arrival/ departure kya hai?\"(Flight of _____, what about the arrival/departure?) is indeed the way to ask about flight information. Let's expand on this for practical application. Fill in the blank with a flight number you might encounter at an Indian airport, such as \"CV868.\" Substitute the number you chose in the phrase and ask me about arrival/departure.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Wonderful! Providing the flight number and asking about arrival/departure are important in Hindi when navigating a busy airport.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Now, let's simulate the moment you arrive at the airport's baggage claim area. You spot your luggage on the carousel. But you want to confirm if it is indeed yours due to similarities in bags. In Hindi, how would you inquire about spotting your luggage on the carousel?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Exactly! Well done. That's the way to inquire about finding your luggage at the carousel in Hindi. Always eager to learn, if you saw that your luggage was missing or delayed, how would you ask about it professionally in Hindi, considering you are at the airport?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great reflex! That's indeed a good question to ask if your luggage has gone missing. Knowing these essential phrases will be helpful for when you travel to India someday. Let's continue practicing with these scenarios to reinforce your foundation.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Now, imagine you are at a train station already and have just boarded your train car. The train conductor is about to announce important information. What key phrases or questions would you use to understand the announcement and confirm you are on the correct train car?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great response! That's indeed a good blend of clarification and confirmation. Let's refine it a bit for optimal effectiveness. Balance your questions with clarity and don't be afraid to use the right amount of polite intonations. Sometimes, the conductor may respond to your inquiry by saying, \"Train jo aaya hai vo ek hi bar jaan jayegi\" (The train that has arrived will be announced just once.)",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Now, let's shift to accommodations during your travel. You've just checked into a hotel. Upon arrival in your room, you encounter a minor issue, perhaps a broken shower. How would you express this issue and your solution requests to the hotel staff in Hindi?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great improvisation! That's a good blend of describing the issue and seeking an alternative solution. Now, as follow-up, the hotel staff may respond by saying, \"Phir aap kya prefer kiya hai, delhi ka khaana ya dubki?\" (Then, what would you like, food from the city of Delhi or a shower?)",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "As part of your travel, you will inevitably need transportation, so let's practice some essential phrases for catching a bus or taxi. Suppose you are at a bus station and need to inquire about the next bus to a particular destination. How would you inquire about this in Hindi?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    }
+]

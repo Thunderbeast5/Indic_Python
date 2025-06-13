@@ -1,0 +1,104 @@
+[
+    {
+        "text": "Hello and welcome to this Hindi language class for beginners, focused on business. My name is Prakash, and I'll be your teacher today. Let's start by learning some basic greetings in Hindi that you can use in a business setting.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great! Let's dive right in with a basic greeting. The formal \"hello\" in Hindi is \"Namaste.\" It's a cultural custom that symbolizes respect and humility. Would you like to learn how to say it?",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Wonderful. Repeat after me: \"Na-ma-ste.\"",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great pronunciation! Now, you can use \"Namaste\" when you meet someone for the first time, as well as when you part ways. It's a versatile greeting that expresses warmth and respect.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "You're absolutely right, and respecting cultural norms is key to conducting business ethically. Let's move on to introducing yourself in Hindi. Here's a useful sentence: \"Mein Bhatia hun.\"",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "It means \"I am Bhatia.\" Bhatia is a common last name in India, and by using this sentence structure, you can introduce your name as well. Let's try it.",
+        "expected": "Player: Okay, I'm ready.",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Excellent. Repeat after me: \"Main Akshay Bhatia hun.\"",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Perfect pronunciation! Now, you've introduced yourself in Hindi. Let's move on to learning how to ask others about their backgrounds in a similar manner.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Of course, always feel free to interrupt if there's something you don't understand or want to clarify. What's your question?",
+        "expected": "I'm not familiar with the pronoun \"main.\" What does it mean and how is it used?",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Well acknowledged. \"Main\" is the Hindi word for \"I\" and it's used to refer to the speaker. In Hindi, the pronoun is often dropped and the verb is in the singular to indicate the speaker is the subject. It's common among Indo-Aryan languages to feature verbs that reflect respect and humility, like \"main,\" to convey politeness.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "You're very welcome. Remember, as you learn how to say \"I\" in Hindi, it's also essential to understand when and where to use it in various situations, whether formally or informally.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Wonderful. Here's the sentence you need to ask politely about someone's background: \"Aap ka matrabhumi kya hai?\"",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Exactly! This is a good icebreaker to learn about your business partner's origins and can be a doorway to interesting conversations.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "My pleasure. We're covering essential basics with practical applications. Let's continue with more vocabulary and expressions for business situations.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Great attitude. Here's another essential phrase: \"Kaam kaise kari hai?\"",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "This friendly question means \"How do you do your work?\" It shows interest and respect for your business partner's processes and is a common small talk topic.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    },
+    {
+        "text": "Exactly, and continuing on, I want to teach you a few words and phrases essential for discussing business proposals, negotiations, and meetings in Hindi. Let's dive into that next.",
+        "expected": "",
+        "english": "",
+        "animation": ""
+    }
+]
